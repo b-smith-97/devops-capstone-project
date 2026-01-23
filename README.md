@@ -1,27 +1,30 @@
-# Simple Interest Calculator
+# Product Catalog
 
-This project is a simple interest calculator created as part of a learning assignment.  
-It calculates the simple interest based on user-provided values.
+## Project Name
+Product Catalog Microservice Application
 
-## 📌 Formula Used
-Simple Interest (SI) is calculated using the formula:
+## Description
+This project is a cloud-native Product Catalog application developed as part of the DevOps, CI/CD, and OpenShift Pipelines coursework.
 
-SI = (Principal × Rate × Time) / 100
+The application demonstrates:
+- RESTful microservices
+- Test-Driven Development (TDD)
+- Behavior-Driven Development (BDD)
+- CI/CD using GitHub Actions
+- OpenShift Pipelines (Tekton)
+- GitOps practices
 
-## 📥 Inputs
-- Principal amount
-- Rate of interest
-- Time period
+## Repository Owner
+GitHub ID: b-smith-97
 
-## 📤 Output
-- Calculated Simple Interest
+## Technologies Used
+- Python (Flask)
+- PyUnit / Nose
+- Behave (BDD)
+- Docker
+- GitHub Actions
+- OpenShift Pipelines (Tekton)
+- Kubernetes / OpenShift
 
-## 🛠️ Usage
-1. Provide the principal amount.
-2. Enter the rate of interest.
-3. Enter the time period.
-4. The program calculates and displays the simple interest.
-
-## 📚 Purpose
-This repository demonstrates basic programming concepts and documentation using GitHub.
-
+## Status
+Completed
