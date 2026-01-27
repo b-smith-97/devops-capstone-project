@@ -1,3 +1,6 @@
+[![CI](https://github.com/b-smith-97/github-final-project/actions/workflows/ci-build.yaml/badge.svg)](
+https://github.com/b-smith-97/github-final-project/actions/workflows/ci-build.yaml
+)
 # Product Catalog
 
 ## Project Name
