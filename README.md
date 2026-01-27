@@ -4,7 +4,7 @@ https://github.com/b-smith-97/github-final-project/actions/workflows/ci-build.ya
 # Product Catalog
 
 ## Project Name
-Product Catalog Microservice Application
+DevOps Capstone
 
 ## Description
 This project is a cloud-native Product Catalog application developed as part of the DevOps, CI/CD, and OpenShift Pipelines coursework.
